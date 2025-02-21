@@ -1,13 +1,9 @@
 ---
-title: "Welcome to My Blog"
+title: "Welcome to Erick's Demo Blog"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  This is a Distill Demo Blog for EDLD 652: Data Visualization
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  Erick Njue
 date: 02-21-2025
 output:
   distill::distill_article:

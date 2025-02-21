@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "Erick's Demo Blog"
 site: distill::distill_website
 listing: posts
 ---
